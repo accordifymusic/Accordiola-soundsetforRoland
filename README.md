@@ -1,11 +1,11 @@
-# Accordiola Karmen Super – Digital Accordion Soundset
+# Accordiola Super Carmen – Digital Accordion Soundset
 
-Custom-developed soundsets for Roland digital accordions FR-4x and FR-8x, designed to emulate the acoustic character of the **Accordiola Karmen Super**.
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=accordifymusic.Accordiola-soundsetforRoland)
+
+Custom-developed soundsets for Roland digital accordions FR-4x and FR-8x.  
+Acoustic accordion emulation inspired by the Accordiola Super Carmen.
 
 The sound design focuses on natural acoustic response, traditional reed balance, and practical usability for live performance.
-
-Author: **Viktor Miller**  
-Soundset creation date: **30 January 2026**
 
 ---
 
@@ -18,11 +18,11 @@ Soundset creation date: **30 January 2026**
 
 ## Files Included
 
-- `Roland_FR-4x_Accordiola_Karmen_Super.soundset`  
-  Custom soundset for **Roland FR-4x**
+- `Roland_FR-4x_Accordiola_Super_Carmen.soundset`  
+  Custom soundset for Roland FR-4x
 
-- `Roland_FR-8x_Accordiola_Karmen_Super.soundset`  
-  Custom soundset for **Roland FR-8x**
+- `Roland_FR-8x_Accordiola_Super_Carmen.soundset`  
+  Custom soundset for Roland FR-8x
 
 Each soundset is individually adjusted to match the sound engine and response characteristics of the corresponding model.
 
@@ -30,44 +30,44 @@ Each soundset is individually adjusted to match the sound engine and response ch
 
 ## Bass Register Layout (Left Hand – Important)
 
-The original acoustic accordion **Accordiola Karmen Super** uses **three bass registers** for the left-hand (bass side).
+The original acoustic accordion Accordiola Super Carmen uses three bass registers for the left-hand (bass side).
 
-To preserve authentic acoustic playing logic on Roland digital accordions, the bass registers are mapped as follows:
+To preserve the authentic acoustic playing logic on Roland digital accordions, the bass registers are mapped as follows:
 
-- **Bass register buttons 3 to 6 are used**
-- These represent the three original acoustic bass registers
-- Other bass register buttons are intentionally left unused or unchanged
+- Bass register buttons 3 to 6 are used  
+- These buttons represent the three original acoustic bass registers  
+- Other bass register buttons are intentionally left unused or unchanged  
 
-This approach maintains the realistic limitation and playing logic of the acoustic instrument rather than using the full extended digital register range.
+This approach maintains a realistic limitation and behavior of the acoustic instrument rather than exploiting the full digital register range.
 
 ---
 
 ## Treble Registers (Right Hand)
 
-The **right-hand (treble) keyboard** contains **7 treble registers**, carefully configured to replicate the tonal character of the real **Accordiola Karmen Super**.
+The right-hand (treble) keyboard is configured with 7 treble registers, carefully selected to replicate the tonal character of the real Accordiola Super Carmen.
 
-The treble configuration:
+The treble soundset is designed to be:
 
-- Reflects the acoustic register structure  
-- Preserves natural tonal transitions  
-- Provides balanced projection across dynamic levels  
+- Stylistically authentic  
+- Balanced across registers  
+- Suitable for expressive performance  
 
-The soundset is suitable for multiple accordion genres, including:
+This configuration makes the soundset versatile and genre-independent, suitable for:
 
 - Folk  
 - Jazz  
 - Musette  
-- Traditional and contemporary accordion repertoire  
+- Traditional and contemporary accordion music  
 
 ---
 
 ## Sound Character
 
 - Acoustic accordion emulation  
-- Warm, balanced reed structure  
+- Warm and balanced reeds  
 - Clear articulation  
-- Natural dynamic response  
-- Optimized for solo and ensemble performance  
+- Responsive dynamics  
+- Designed for both solo and ensemble performance  
 
 ---
 
@@ -75,43 +75,42 @@ The soundset is suitable for multiple accordion genres, including:
 
 ### Method 1: USB Flash Drive
 
-1. Copy the appropriate soundset file to a USB flash drive.  
-2. Insert the USB drive into your Roland accordion.  
-3. Load the soundset via the instrument’s sound/system menu.  
-4. Save it to the desired user memory location.  
+1. Copy the appropriate soundset file to a USB flash drive.
+2. Insert the USB drive into your Roland accordion.
+3. Load the soundset via the instrument’s system or sound management menu.
+4. Save the settings to the desired user memory location.
 
 ---
 
-### Method 2: Direct USB Connection (Roland Editor)
+### Method 2: USB Connection via Computer (Roland Editor)
 
-Installation is also possible via computer connection:
+Installation is also possible by connecting the accordion directly to a computer:
 
-1. Connect your Roland FR-4x or FR-8x to a PC or Mac using a USB cable.  
-2. Launch **Roland Editor for FR-4x / FR-8x**.  
-3. Import the corresponding soundset file.  
-4. Transfer the soundset to the instrument.  
-5. Store it in user memory.  
+1. Connect your Roland FR-4x or FR-8x to a PC or Mac using a USB cable.
+2. Launch Roland Editor for FR-4x / FR-8x.
+3. Import the corresponding soundset file into the editor.
+4. Transfer the soundset to the accordion and store it in user memory.
 
-Refer to official Roland documentation for detailed instructions regarding USB mode and editor configuration.
+Please refer to the official Roland documentation for detailed instructions regarding the editor software and USB connection.
 
 ---
 
 ## Notes
 
-- Developed through independent testing and practical performance evaluation.  
-- Final sound perception may vary depending on amplification system, speakers, headphones, and playing technique.  
-- Users may fine-tune global parameters to match personal performance preferences.  
+- These soundsets were developed through personal experimentation and testing.
+- Final sound perception may vary depending on amplification system, speakers, and playing technique.
+- Users are encouraged to fine-tune global settings to match their personal style.
 
 ---
 
 ## License
 
-© 2026 Viktor Miller  
+Copyright © 2026 Viktor Miller
 
 This project is licensed under the  
-**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
 
-You may share and adapt the material for non-commercial purposes with proper attribution.
+You are free to use and modify this soundset for non-commercial purposes.  
+Commercial use is not permitted without explicit permission from the author.
 
-The complete legal text of the license is provided in the `LICENSE` file in this repository and is available at:  
-https://creativecommons.org/licenses/by-nc/4.0/legalcode
+The full license text is available in the LICENSE file included in this repository.
